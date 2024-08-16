@@ -38,7 +38,8 @@ python scraper/scrape_reviews.py
 To pseudonymize customer names in the dataset:
 
 ```bash
-python scraper/pseudonymize.py```
+python scraper/pseudonymize.py
+```
 
 ### Data Analysis Notebooks
 
