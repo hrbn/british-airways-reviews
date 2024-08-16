@@ -15,7 +15,7 @@ This project analyzes online reviews from British Airways customers on [Skytrax]
 
 ## Installation
 
-To set up this project locally, follow these steps:
+To set up the project, clone the repository and install the required packages:
 
 ```bash
 git clone https://github.com/hrbn/british-airways-reviews.git
@@ -38,8 +38,7 @@ python scraper/scrape_reviews.py
 To pseudonymize customer names in the dataset:
 
 ```bash
-python scraper/pseudonymize.py
-```
+python scraper/pseudonymize.py```
 
 ### Data Analysis Notebooks
 
