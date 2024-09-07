@@ -3,15 +3,6 @@
 ## Project Overview
 
 This project analyzes online reviews from British Airways customers on [Skytrax](https://www.airlinequality.com) using Natural Language Processing (NLP) and topic modeling. The goal is to discover recurring themes and sentiments to inform decision-making in customer service and product development.
-## Table of Contents
-
-- [British Airways Customer Reviews Analysis](#british-airways-customer-reviews-analysis)
-  - [Project Overview](#project-overview)
-  - [Table of Contents](#table-of-contents)
-  - [Installation](#installation)
-  - [Usage](#usage)
-    - [Scraping Customer Review Data](#scraping-customer-review-data)
-    - [Data Analysis Notebooks](#data-analysis-notebooks)
 
 ## Installation
 
