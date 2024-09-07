@@ -12,7 +12,7 @@ To set up the project, clone the repository and install the required packages:
 git clone https://github.com/hrbn/british-airways-reviews.git
 cd british-airways-reviews
 python3 -m venv env
-source env/bin/activate  # On Windows, use `env\Scripts\activate`
+source env/bin/activate
 pip install -r requirements.txt
 ```
 
